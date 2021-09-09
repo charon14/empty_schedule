@@ -12,6 +12,8 @@
 注意：
 1. 该程序查询功能只适用于2021年下半学期，后期可能会更新
 
-2. 开源地址：https://github.com/charon14/empty_schedule
+2.如果输入A或者B后没有反应，可能是网络问题，请检查网络连接
 
-3. 如有问题，请联系开发者 QQ：3242405851
+3. 开源地址：https://github.com/charon14/empty_schedule
+
+4. 如有问题，请联系开发者 QQ：3242405851

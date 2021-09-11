@@ -17,3 +17,5 @@
 3. 开源地址：https://github.com/charon14/empty_schedule
 
 4. 如有问题，请联系开发者 QQ：3242405851
+
+5. 程序默认计算1-16周的空课表，如果需要修改，可通过输入start_week或end_week修改
